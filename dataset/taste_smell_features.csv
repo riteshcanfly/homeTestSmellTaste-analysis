@@ -1,0 +1,250 @@
+,Taste_Change,Smell_Change,Diagnosed
+0,No,No,Non-COVID
+1,No,Slight,Non-COVID
+2,No,No,Non-COVID
+3,No,No,Non-COVID
+4,No,No,Non-COVID
+5,No,No,Non-COVID
+6,Bitter,Slight,COVID
+7,No,No,Non-COVID
+8,No,No,Non-COVID
+9,Sweet,Moderate,Non-COVID
+10,No,No,Non-COVID
+11,No,No,Non-COVID
+12,No,No,Non-COVID
+13,Bitter,Complete Loss,Non-COVID
+14,No,Slight,Non-COVID
+15,Salt,Slight,Non-COVID
+16,No,No,Non-COVID
+17,No,No,Non-COVID
+18,No,No,Non-COVID
+19,No,No,Non-COVID
+20,No,No,Non-COVID
+21,Salt,Complete Loss,Non-COVID
+22,No,No,Non-COVID
+23,No,No,Non-COVID
+24,No,No,Non-COVID
+25,No,No,Non-COVID
+26,No,No,Non-COVID
+27,Salt,Slight,COVID
+28,No,No,COVID
+29,Salt,No,COVID
+30,No,No,COVID
+31,No,No,COVID
+32,No,No,COVID
+33,No,Slight,Non-COVID
+34,No,No,COVID
+35,No,No,COVID
+36,No,No,Non-COVID
+37,No,No,Non-COVID
+38,No,No,Non-COVID
+39,No,No,Non-COVID
+40,Sweet,Moderate,Non-COVID
+41,No,No,Non-COVID
+42,No,No,Non-COVID
+43,No,No,Non-COVID
+44,No,No,Non-COVID
+45,No,No,Non-COVID
+46,No,No,Non-COVID
+47,No,No,Non-COVID
+48,No,No,Non-COVID
+49,No,No,COVID
+50,No,Slight,COVID
+51,No,No,COVID
+52,No,Slight,COVID
+53,No,No,Non-COVID
+54,Salt,No,Non-COVID
+55,No,No,Non-COVID
+56,No,No,Non-COVID
+57,No,No,Non-COVID
+58,No,No,Non-COVID
+59,Bitter,No,Non-COVID
+60,No,No,Non-COVID
+61,No,No,Non-COVID
+62,No,No,Non-COVID
+63,No,No,Non-COVID
+64,No,No,Non-COVID
+65,No,No,Non-COVID
+66,No,No,Non-COVID
+67,No,No,Non-COVID
+68,No,No,Non-COVID
+69,Sweet,No,Non-COVID
+70,No,No,Non-COVID
+71,No,No,Non-COVID
+72,No,No,Non-COVID
+73,No,No,Non-COVID
+74,No,No,Non-COVID
+75,No,No,Non-COVID
+76,No,No,Non-COVID
+77,No,No,Non-COVID
+78,No,No,Non-COVID
+79,No,No,Non-COVID
+80,No,No,Non-COVID
+81,No,No,Non-COVID
+82,No,No,Non-COVID
+83,No,No,Non-COVID
+84,No,Slight,Non-COVID
+85,No,No,Non-COVID
+86,No,No,Non-COVID
+87,No,No,Non-COVID
+88,No,No,Non-COVID
+89,No,No,Non-COVID
+90,Salt,No,Non-COVID
+91,No,No,Non-COVID
+92,No,No,Non-COVID
+93,No,Slight,COVID
+94,Salt,Slight,COVID
+95,Sour,Slight,COVID
+96,No,No,Non-COVID
+97,No,No,COVID
+98,No,No,Non-COVID
+99,No,No,Non-COVID
+100,No,No,Non-COVID
+101,No,No,Non-COVID
+102,No,No,Non-COVID
+103,No,No,Non-COVID
+104,No,Slight,COVID
+105,No,No,Non-COVID
+106,No,No,Non-COVID
+107,No,No,Non-COVID
+108,No,No,Non-COVID
+109,No,No,COVID
+110,Sweet,Moderate,Non-COVID
+111,No,No,Non-COVID
+112,No,Slight,Non-COVID
+113,No,No,Non-COVID
+114,No,No,Non-COVID
+115,Sweet,Slight,Non-COVID
+116,No,No,Non-COVID
+117,No,No,COVID
+118,No,No,COVID
+119,No,No,Non-COVID
+120,No,No,COVID
+121,No,No,COVID
+122,No,No,Non-COVID
+123,No,No,Non-COVID
+124,No,No,COVID
+125,No,No,COVID
+126,No,No,Non-COVID
+127,No,No,Non-COVID
+128,No,No,COVID
+129,No,No,Non-COVID
+130,No,No,Non-COVID
+131,Bitter,Complete Loss,COVID
+132,Bitter,Complete Loss,COVID
+133,No,No,COVID
+134,No,Slight,COVID
+135,Sour,Moderate,Non-COVID
+136,Bitter,Moderate,COVID
+137,No,Slight,COVID
+138,Bitter,Complete Loss,COVID
+139,No,Slight,COVID
+140,No,Slight,COVID
+141,No,No,COVID
+142,No,Complete Loss,Non-COVID
+143,No,No,COVID
+144,No,No,Non-COVID
+145,No,No,Non-COVID
+146,No,Slight,Non-COVID
+147,No,No,COVID
+148,No,No,Non-COVID
+149,No,No,COVID
+150,No,No,COVID
+151,No,No,Non-COVID
+152,Bitter,Complete Loss,Non-COVID
+153,Salt,Complete Loss,COVID
+154,No,No,Non-COVID
+155,No,No,COVID
+156,No,No,COVID
+157,No,No,Non-COVID
+158,No,No,COVID
+159,No,No,COVID
+160,No,No,Non-COVID
+161,No,No,COVID
+162,No,No,COVID
+163,No,No,Non-COVID
+164,No,No,Non-COVID
+165,No,No,Non-COVID
+166,Bitter,Slight,COVID
+167,No,Complete Loss,COVID
+168,No,No,Non-COVID
+169,Bitter,Moderate,COVID
+170,No,Complete Loss,COVID
+171,No,No,Non-COVID
+172,No,No,COVID
+173,Salt,Complete Loss,COVID
+174,No,No,Non-COVID
+175,Bitter,Complete Loss,COVID
+176,No,No,COVID
+177,No,Moderate,Non-COVID
+178,No,No,Non-COVID
+179,No,No,Non-COVID
+180,No,No,COVID
+181,No,No,Non-COVID
+182,No,No,COVID
+183,No,No,Non-COVID
+184,No,No,Non-COVID
+185,No,Complete Loss,COVID
+186,Sour,Slight,Non-COVID
+187,Bitter,No,COVID
+188,Sweet,Moderate,Non-COVID
+189,No,No,Non-COVID
+190,No,No,Non-COVID
+191,No,No,Non-COVID
+192,No,Slight,COVID
+193,No,No,Non-COVID
+194,Bitter,Complete Loss,COVID
+195,Bitter,Complete Loss,COVID
+196,Salt,Slight,COVID
+197,No,Moderate,COVID
+198,No,Moderate,COVID
+199,No,Moderate,COVID
+200,Bitter,Complete Loss,COVID
+201,Bitter,Complete Loss,COVID
+202,Bitter,Complete Loss,COVID
+203,No,No,COVID
+204,Bitter,Complete Loss,COVID
+205,No,No,COVID
+206,Bitter,Complete Loss,COVID
+207,No,No,COVID
+208,No,No,COVID
+209,No,No,COVID
+210,No,No,COVID
+211,No,No,COVID
+212,No,No,COVID
+213,Bitter,Complete Loss,COVID
+214,No,Slight,COVID
+215,No,No,COVID
+216,No,No,COVID
+217,Sweet,Moderate,COVID
+218,No,No,COVID
+219,Bitter,Complete Loss,COVID
+220,Sweet,Moderate,COVID
+221,No,No,COVID
+222,Bitter,Complete Loss,COVID
+223,No,No,COVID
+224,Bitter,Complete Loss,COVID
+225,No,No,COVID
+226,Bitter,Moderate,COVID
+227,Bitter,Complete Loss,COVID
+228,Sweet,Moderate,COVID
+229,No,No,COVID
+230,No,No,COVID
+231,No,No,COVID
+232,No,No,COVID
+233,Sweet,Complete Loss,COVID
+234,No,No,COVID
+235,Bitter,Slight,COVID
+236,No,No,COVID
+237,Bitter,Complete Loss,COVID
+238,No,Moderate,COVID
+239,No,No,COVID
+240,Bitter,Moderate,COVID
+241,No,No,COVID
+242,Bitter,Complete Loss,COVID
+243,No,No,COVID
+244,No,No,COVID
+245,No,Complete Loss,COVID
+246,No,No,COVID
+247,Bitter,Complete Loss,COVID
+248,Bitter,Complete Loss,COVID
