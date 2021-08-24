@@ -1,0 +1,9 @@
+,Smoker,Percentage,Diagnosed
+0,No,78.1,COVID-19
+1,Not Known,3.81,COVID-19
+2,Yes(Current),12.38,COVID-19
+3,Yes(Previous),5.71,COVID-19
+4,No,83.58,Non-COVID-19
+5,Not Known,3.73,Non-COVID-19
+6,Yes(Current),8.21,Non-COVID-19
+7,Yes(Previous),4.48,Non-COVID-19
