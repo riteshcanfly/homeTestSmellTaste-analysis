@@ -116,6 +116,7 @@ def grid_searchcv(data,num_featue_dict,feature_type):
 
     return cv_dict
 
+
 def bootstrap_resampling(data,clf,cv_dict,num_featue_dict,feature_type):
     # run bootstrap
     acc_stats = []
@@ -126,8 +127,19 @@ def bootstrap_resampling(data,clf,cv_dict,num_featue_dict,feature_type):
     for i in range(n_iterations):
         print('i=',i,end='\r')
         # prepare train and test sets
-        train = resample(values, stratify=values[:,-1],n_samples=n_size,random_state=i)
-        test = np.array([x for x in values if x.tolist() not in train.tolist()])
+        #data.drop_duplicates(inplace=True)
+        values=data.values
+        values=[[val[0],val[-1]] for val in values.tolist()]
+        values=np.array(values)
+        train=resample(values, stratify=values[:,-1],n_samples=n_size,random_state=i)
+        ids=[val[0] for val in train.tolist()]
+        train=data[data.id.isin(ids)].values
+        train=train[:,1:]
+        test=data[~data.id.isin(ids)].values
+        test=test[:,1:]
+        #values=data.values
+        #train = resample(values, stratify=values[:,-1],n_samples=n_size,random_state=i)
+        #test = np.array([x for x in values if x.tolist() not in train.tolist()])
         train[:,-1]=np.array([0 if val=='Non-COVID' else 1 for val in list(train[:,-1])])
         test[:,-1]=np.array([0 if val=='Non-COVID' else 1 for val in list(test[:,-1])])
         X_train=pd.DataFrame(train[:,:-1])
@@ -160,6 +172,9 @@ def bootstrap_resampling(data,clf,cv_dict,num_featue_dict,feature_type):
     eval_values=[(round(acc_lower*100,2),round(acc_upper*100,2)),(round(pre_lower*100,2),round(pre_upper*100,2)),(round(rec_lower*100,2),round(rec_upper*100,2)),(round(f1_lower*100,2),round(f1_upper*100,2))]
     
     return eval_values
+
+
+
 
 def form_table(stats_dict):
     x = PrettyTable()
